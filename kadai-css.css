@@ -4,21 +4,23 @@ header {
    width: 1000px;
    background-color: #ffcccc;
 }
+
 #wrapper {
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
 }
+
 #main {
-    width: 700px;
+    width: 70%; /* メインエリアの幅を70%に設定 */
     background-color: #ccffcc;
 }
 
 #menu {
-    width: 300px;
+    width: 30%; /* メニューエリアの幅を30%に設定 */
     background-color: #ccccff;
 }
+
 footer {
     background-color: #ffccff;
-}    
-    
+}
