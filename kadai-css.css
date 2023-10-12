@@ -2,6 +2,7 @@
 
 header {
    width: 1000px;
+   width: 100%;
    background-color: #ffcccc;
 }
 
@@ -12,15 +13,19 @@ header {
 }
 
 #main {
+    width: 700px;
     width: 70%; /* メインエリアの幅を70%に設定 */
     background-color: #ccffcc;
 }
 
 #menu {
+    width: 30px;
     width: 30%; /* メニューエリアの幅を30%に設定 */
     background-color: #ccccff;
 }
 
 footer {
+    width: 1000px;
+    width: 100%;
     background-color: #ffccff;
 }
