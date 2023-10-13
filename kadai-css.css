@@ -2,35 +2,26 @@
 
 header {
    width: 1000px;
-   max-width: 100%; /* 最大幅を100%に設定 */
    background-color: #ffcccc;
-   margin: 0 auto;
 }
 
 #wrapper {
     width: 1000px;
-    max-width: 100%; /* 最大幅を100%に設定 */
-    margin: 0 auto;
     display: flex;
     justify-content: space-between;
 }
 
 #main {
-    max-width: 100%; /* 最大幅を100%に設定 */
     width: 70%; /* メインエリアの幅を70%に設定 */
-    margin: 0 auto;
     background-color: #ccffcc;
 }
 
 #menu {
-    max-width: 100%; /* 最大幅を100%に設定 */
     width: 30%; /* メニューエリアの幅を30%に設定 */
     background-color: #ccccff;
 }
 
 footer {
     width: 1000px;
-    max-width: 100%; /* 最大幅を100%に設定 */
     background-color: #ffccff;
-    margin: 0 auto;
 }
